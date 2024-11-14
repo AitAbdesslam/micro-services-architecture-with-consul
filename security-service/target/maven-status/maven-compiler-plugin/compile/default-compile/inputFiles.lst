@@ -1,0 +1,15 @@
+/Users/osx/Documents/IntelliJ_IDEA_Projects/ecom-micro-services-architecture/security-service/src/main/java/com/ms/secservice/SecServiceApplication.java
+/Users/osx/Documents/IntelliJ_IDEA_Projects/ecom-micro-services-architecture/security-service/src/main/java/com/ms/secservice/sec/JWTUtil.java
+/Users/osx/Documents/IntelliJ_IDEA_Projects/ecom-micro-services-architecture/security-service/src/main/java/com/ms/secservice/sec/SecurityConfig.java
+/Users/osx/Documents/IntelliJ_IDEA_Projects/ecom-micro-services-architecture/security-service/src/main/java/com/ms/secservice/sec/SecurityConfiguration.java
+/Users/osx/Documents/IntelliJ_IDEA_Projects/ecom-micro-services-architecture/security-service/src/main/java/com/ms/secservice/sec/dao/AppRoleRepository.java
+/Users/osx/Documents/IntelliJ_IDEA_Projects/ecom-micro-services-architecture/security-service/src/main/java/com/ms/secservice/sec/dao/AppUserRepository.java
+/Users/osx/Documents/IntelliJ_IDEA_Projects/ecom-micro-services-architecture/security-service/src/main/java/com/ms/secservice/sec/entities/AppRole.java
+/Users/osx/Documents/IntelliJ_IDEA_Projects/ecom-micro-services-architecture/security-service/src/main/java/com/ms/secservice/sec/entities/AppUser.java
+/Users/osx/Documents/IntelliJ_IDEA_Projects/ecom-micro-services-architecture/security-service/src/main/java/com/ms/secservice/sec/filters/JwtAuthenticationFilter.java
+/Users/osx/Documents/IntelliJ_IDEA_Projects/ecom-micro-services-architecture/security-service/src/main/java/com/ms/secservice/sec/filters/JwtAutorizationFilter.java
+/Users/osx/Documents/IntelliJ_IDEA_Projects/ecom-micro-services-architecture/security-service/src/main/java/com/ms/secservice/sec/helpers/RoleUserForm.java
+/Users/osx/Documents/IntelliJ_IDEA_Projects/ecom-micro-services-architecture/security-service/src/main/java/com/ms/secservice/sec/service/AccountService.java
+/Users/osx/Documents/IntelliJ_IDEA_Projects/ecom-micro-services-architecture/security-service/src/main/java/com/ms/secservice/sec/service/AccountServiceImpl.java
+/Users/osx/Documents/IntelliJ_IDEA_Projects/ecom-micro-services-architecture/security-service/src/main/java/com/ms/secservice/sec/service/UserDetailsServiceImpl.java
+/Users/osx/Documents/IntelliJ_IDEA_Projects/ecom-micro-services-architecture/security-service/src/main/java/com/ms/secservice/sec/web/AccountRestController.java

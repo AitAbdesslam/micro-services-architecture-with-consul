@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "rsa",
+      "type": "com.ms.secservice.sec.config.RsaKeysConfig",
+      "sourceType": "com.ms.secservice.sec.config.RsaKeysConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "rsa.private-key",
+      "type": "java.security.interfaces.RSAPrivateKey",
+      "sourceType": "com.ms.secservice.sec.config.RsaKeysConfig"
+    },
+    {
+      "name": "rsa.public-key",
+      "type": "java.security.interfaces.RSAPublicKey",
+      "sourceType": "com.ms.secservice.sec.config.RsaKeysConfig"
+    }
+  ],
+  "hints": []
+}
